@@ -1,3 +1,4 @@
+# encoding:utf-8
 from .context import Context
 from .types import Node, Outcome
 
