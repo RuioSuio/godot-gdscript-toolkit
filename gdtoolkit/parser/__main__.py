@@ -1,3 +1,4 @@
+# encoding:utf-8
 """GDScript parser
 
 By default, nothing is being printed on success and the exitcode is 0.
