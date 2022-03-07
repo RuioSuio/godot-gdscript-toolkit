@@ -1,3 +1,4 @@
+# encoding:utf-8
 """GDScript formatter
 
 Uncompromising GDScript code formatter. The only configurable thing is
