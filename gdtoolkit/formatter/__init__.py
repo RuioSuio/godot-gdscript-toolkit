@@ -1,3 +1,4 @@
+# encoding:utf-8
 from typing import Optional
 
 from lark import Tree
