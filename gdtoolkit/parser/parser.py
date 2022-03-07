@@ -1,3 +1,4 @@
+# encoding:utf-8
 """
 Initializes and caches the GDScript parsers, using Lark.
 Provides a function to parse GDScript code
